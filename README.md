@@ -1,5 +1,7 @@
 - ERIK MAZZUCO
 - TCC/2022
+- 18y
+- Aquário
 
 <div align="center">
   <a href="https://github.com/ErikMazzuco">

@@ -17,12 +17,12 @@
   <img align="center" title="MYSQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />                          
 </div></h1>           
- <h1>REDES SOCIAIS:</br>
+ <h1 title="SOU TIMIDO!" >REDES SOCIAIS:</br>
 <div>
-  <a href="https://www.youtube.com/channel/UCDiZI8C5fvnYtiht-28jvkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000? style=&logo=youtube&logoColor=white"target="_blank"></a>
- <a href="https://www.instagram.com/erikmazzuco/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/erikmazzuco"target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://discordapp.com/users/ErikMazzuco#2437" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the- badge&logo=discord&logoColor=white"target="_blank"></a>
-  <a href ="erikmazzucomatheus789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=&logo=gmail&logoColor=white"destino="_blank"></a>
-  <a href="https://www.linkedin.com/in/erik-matheus-588819205/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white"target="_blank"></a>
+  <a title="ERIK MAZZUCO" href="https://www.youtube.com/channel/UCDiZI8C5fvnYtiht-28jvkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000? style=&logo=youtube&logoColor=white"target="_blank"></a>
+ <a title="ERIK MAZZUCO"  href="https://www.instagram.com/erikmazzuco/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=&logo=instagram&logoColor=white" target="_blank"></a>
+<a title="ERIK MAZZUCO"  href="https://www.twitch.tv/erikmazzuco"target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=&logo=twitch&logoColor=white" target="_blank"></a>
+<a title="ERIK MAZZUCO"  href="https://discordapp.com/users/ErikMazzuco#2437" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the- badge&logo=discord&logoColor=white"target="_blank"></a>
+  <a title="ERIK MAZZUCO"  href ="erikmazzucomatheus789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=&logo=gmail&logoColor=white"destino="_blank"></a>
+  <a title="ERIK MAZZUCO"  href="https://www.linkedin.com/in/erik-matheus-588819205/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white"target="_blank"></a>
 </div></h1>

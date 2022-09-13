@@ -2,7 +2,7 @@
 - TCC/2022
 - 18y
 - Aquário
-<div align="center" style="display: inline_block">
+<div align="center">
   <a href="https://github.com/ErikMazzuco">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=ErikMazzuco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikMazzuco&layout=compact&langs_count=7&theme=dark"/>

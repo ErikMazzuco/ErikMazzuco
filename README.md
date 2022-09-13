@@ -24,5 +24,5 @@
 <a title="ERIK MAZZUCO"  href="https://www.twitch.tv/erikmazzuco"target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=&logo=twitch&logoColor=white" target="_blank"></a>
 <a title="ERIK MAZZUCO"  href="https://discordapp.com/users/ErikMazzuco#2437" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the- badge&logo=discord&logoColor=white"target="_blank"></a>
   <a title="ERIK MAZZUCO"  href ="erikmazzucomatheus789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=&logo=gmail&logoColor=white"destino="_blank"></a>
-  <a title="ERIK MAZZUCO"  href="https://www.linkedin.com/in/erik-matheus-588819205/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white"target="_blank"></a>
+  <a title="ERIK MAZZUCO"  href="https://www.linkedin.com/in/erik-matheus-588819205/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div></h1>

@@ -27,3 +27,5 @@
   <a title="ERIK MAZZUCO"  href="erikmazzucomatheus789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=&logo=gmail&logoColor=white" height="25em" destino="_blank"></a>
   <a title="ERIK MAZZUCO"  href="https://www.linkedin.com/in/erikmazzuco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" height="25em" target="_blank"></a>
 </div></h1>
+
+![Animação de cobra](https://github.com/erikmazzuco/erikmazzuco/blob/output/github-contribution-grid-snake.svg)

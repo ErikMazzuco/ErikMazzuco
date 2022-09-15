@@ -28,4 +28,4 @@
   <a title="ERIK MAZZUCO"  href="https://www.linkedin.com/in/erikmazzuco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" height="25em" target="_blank"></a>
 </div></h1>
 
-![Animação de cobra](https://github.com/erikmazzuco/erikmazzuco/blob/output/github-contribution-grid-snake.svg)
+![Animação de cobra](https://github.com/Erik Mazzuco/Erik Mazzuco/blob/output/github-contribution-grid-snake.svg)

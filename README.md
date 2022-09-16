@@ -10,8 +10,8 @@
 
 <div align="center">
 <a href="https://github.com/ErikMazzuco">
- <img   height="180em" src="https://github-readme-stats.vercel.app/api?username=ErikMazzuco&show_icons=true&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
- <img height="180em"
+ <img   height="170em" src="https://github-readme-stats.vercel.app/api?username=ErikMazzuco&show_icons=true&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+ <img height="170em"
          src="https://github-readme-streak-stats.herokuapp.com/?user=ErikMazzuco&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
   </div>
    

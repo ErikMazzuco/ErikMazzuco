@@ -2,11 +2,20 @@
 - TCC/2022
 - 18y
 - Aquário
-<div align="left">
-  <a href="https://github.com/ErikMazzuco">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ErikMazzuco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikMazzuco&layout=compact&langs_count=7&theme=dark"/>
 
+</br>
+<div align="Center">
+  <a href="https://github.com/ErikMazzuco">
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ErikMazzuco&show_icons=true&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+  
+   <img align="center"
+         height="140em"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=ErikMazzuco&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+
+   
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikMazzuco&layout=compact&langs_count=7&theme=apprentice&hide_border=true&bg_color=0D1117"/>
+   
+   
 </div>
 <div style="display: inline_block"><br>
 <h1 title="SOMENTE BÁSICO">LINGUAGENS: </br>
@@ -27,5 +36,28 @@
   <a title="ERIK MAZZUCO"  href="erikmazzucomatheus789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=&logo=gmail&logoColor=white" height="25em" destino="_blank"></a>
   <a title="ERIK MAZZUCO"  href="https://www.linkedin.com/in/erikmazzuco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" height="25em" target="_blank"></a>
 </div></h1>
+
+
+
+
+
+
+<a href="https://github.com/okamimks">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api?username=OkamiMks&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
+  </a>
+    
+  <a href="https://github.com/okamimks">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=OkamiMks&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+  </a>
+  <a href="https://github.com/okamimks">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=OkamiMks&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
+    />
+  </a>
 
 <!--![Animação de cobra](https://github.com/ErikMazzuco/ErikMazzuco/blob/output/github-contribution-grid-snake.svg)-->

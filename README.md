@@ -6,7 +6,7 @@
   <a href="https://github.com/ErikMazzuco">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=ErikMazzuco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <!--  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikMazzuco&layout=compact&langs_count=7&theme=dark"/>-->
-</a> 
+
 </div>
 <div style="display: inline_block"><br>
 <h1 title="SOMENTE BÁSICO">LINGUAGENS: </br>
@@ -17,7 +17,7 @@
   <img align="center" title="MYSQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
  <img align="center" title="UNITY" height="30" width="40" src="https://www.ambient-it.net/wp-content/uploads/2018/09/unity-175.png"/>
-</div></h1>           
+</div></a> </h1>           
  <h1 title="SOU TIMIDO!" >REDES SOCIAIS:</br>
 <div>
   <a title="ERIK MAZZUCO" href="https://www.youtube.com/channel/UCDiZI8C5fvnYtiht-28jvkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000? style=&logo=youtube&logoColor=white" height="25em" target="_blank"></a>
@@ -28,4 +28,4 @@
   <a title="ERIK MAZZUCO"  href="https://www.linkedin.com/in/erikmazzuco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" height="25em" target="_blank"></a>
 </div></h1>
 
-![Animação de cobra](https://github.com/ErikMazzuco/ErikMazzuco/blob/output/github-contribution-grid-snake.svg)
+<!--![Animação de cobra](https://github.com/ErikMazzuco/ErikMazzuco/blob/output/github-contribution-grid-snake.svg)-->

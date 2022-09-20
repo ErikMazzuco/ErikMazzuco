@@ -37,4 +37,4 @@
 
 
 
-<!--![Animação de cobra](https://github.com/ErikMazzuco/ErikMazzuco/blob/output/github-contribution-grid-snake.svg)-->
+<!--![Animação dee cobra](https://github.com/ErikMazzuco/ErikMazzuco/blob/output/github-contribution-grid-snake.svg)-->

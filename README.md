@@ -30,7 +30,6 @@
 <a title="ERIK MAZZUCO"  href="https://discordapp.com/users/ErikMazzuco#2437" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the- badge&logo=discord&logoColor=white" height="25em" target="_blank"></a>
   <a title="ERIK MAZZUCO"  href="erikmazzucomatheus789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=&logo=gmail&logoColor=white" height="25em" destino="_blank"></a>
   <a title="ERIK MAZZUCO"  href="https://www.linkedin.com/in/erikmazzuco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" height="25em" target="_blank"> </a>
-  
   <a title="ERIK MAZZUCO"  href="https://api.whatsapp.com/send?phone=5545999291895" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=&logo=whatsapp&logoColor=white" height="25em" target="_blank"> </a>
   
 </div></h1>

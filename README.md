@@ -1,7 +1,6 @@
  >ERIK MAZZUCO
-- TCC/2022
-- 18y
-- Aquário
+- Ciencia Da Computação UTFPR
+- 20y
 
 <div align="center">
 <a href="https://github.com/ErikMazzuco">

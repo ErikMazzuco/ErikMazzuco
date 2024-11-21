@@ -1,4 +1,5 @@
  >ERIK MAZZUCO
+- Formado em Técnico de Informática Joao Manoel Mondrone
 - Ciencia Da Computação UTFPR
 - 20y
 

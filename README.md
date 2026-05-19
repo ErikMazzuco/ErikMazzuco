@@ -4,10 +4,10 @@
 - 20y
 
 <div align="center">
-<a href="https://github.com/ErikMazzuco">
-<img  height="160em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikMazzuco&hide=contribs,prs)" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
  
- &show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117")/>
+
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikMazzuco&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
   </div>
 <div style="display: inline_block"><br>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://linktr.ee/ErikMazzuco">
-    <img src="https://skillicons.dev/icons?i=git,java,js,mysql,php,py,androidstudio,docker,dotnet,c,unity,html&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=git,java,js,mysql,php,py,androidstudio,docker,dotnet,c,unity,html&theme=dark"/>
   </a>
 </p>
  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikMazzuco&layout=compact&langs_count=7&theme=apprentice&hide_border=true&bg_color=0D1117"/>

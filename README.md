@@ -21,7 +21,7 @@
 
 
 <div style="display: inline_block">
- <h1>REDES SOCIAIS:</h1>
+ <br><h1>REDES SOCIAIS:</h1></br>
   <a title="Youtube" href="https://www.youtube.com/channel/UCDiZI8C5fvnYtiht-28jvkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=&logo=youtube&logoColor=white"  height="25em" target="_blank"></a>
   <a title="Instagram"  href="https://www.instagram.com/erikmazzuco/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=&logo=instagram&logoColor=white" height="25em" target="_blank"></a>
   <a title="Twitch"  href="https://www.twitch.tv/erikmazzuco"target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=&logo=twitch&logoColor=white" height="25em" target="_blank"></a>

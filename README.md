@@ -19,10 +19,14 @@
    <img align="center" title="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
  <img align="center" title="UNITY" height="30" width="40" src="https://www.ambient-it.net/wp-content/uploads/2018/09/unity-175.png"/>
  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikMazzuco&layout=compact&langs_count=7&theme=apprentice&hide_border=true&bg_color=0D1117"/>
+
  
  
 </div></a> </h1>           
  <h1  >REDES SOCIAIS:</br></h1>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+ 
 <div>
   <a title="Youtube" href="https://www.youtube.com/channel/UCDiZI8C5fvnYtiht-28jvkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=&logo=youtube&logoColor=white"  height="25em" target="_blank"></a>
  <a title="Instagram"  href="https://www.instagram.com/erikmazzuco/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=&logo=instagram&logoColor=white" height="25em" target="_blank"></a>

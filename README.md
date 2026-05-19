@@ -5,9 +5,8 @@
 
 <div align="center">
 <a href="https://github.com/ErikMazzuco">
- <img   height="160em" src="https://github-readme-stats.vercel.app/api?username=ErikMazzuco&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
- <img height="160em"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=ErikMazzuco&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
+ <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=ErikMazzuco&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikMazzuco&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
   </div>
 <div style="display: inline_block"><br>
 <h1 title="SOMENTE BÁSICO">LINGUAGENS: </br>

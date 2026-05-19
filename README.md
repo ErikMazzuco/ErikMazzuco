@@ -11,6 +11,14 @@
   </div>
 <div style="display: inline_block"><br>
 <h1 title="SOMENTE BÁSICO">LINGUAGENS: </br>
+
+<p align="center">
+  <a href="https://linktr.ee/ErikMazzuco">
+    <img src="https://skillicons.dev/icons?i=git,java,js,mysql,php,py,androidstudio,docker,dotnet,c,html&theme=light"/>
+  </a>
+</p>
+
+ 
 <img align="center" title="JAVA SCRIPT" alt="ERIK-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="HTML5"alt="ERIK-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" title="CSS" alt="ERIK-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
@@ -25,12 +33,7 @@
 </div></a> </h1>           
  <h1  >REDES SOCIAIS:</br></h1>
 
-<p align="center">
-  <a href="https://linktr.ee/ErikMazzuco">
-    <img src="https://skillicons.dev/icons?i=git,docker,dotnet,c,html&theme=light"/>
-  </a>
-</p>
- 
+
 <div>
   <a title="Youtube" href="https://www.youtube.com/channel/UCDiZI8C5fvnYtiht-28jvkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=&logo=youtube&logoColor=white"  height="25em" target="_blank"></a>
  <a title="Instagram"  href="https://www.instagram.com/erikmazzuco/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=&logo=instagram&logoColor=white" height="25em" target="_blank"></a>

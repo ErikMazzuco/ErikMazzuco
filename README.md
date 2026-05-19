@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikMazzuco&show_icons=true&theme=radical)
  
 
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikMazzuco&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>

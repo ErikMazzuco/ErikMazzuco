@@ -25,7 +25,11 @@
 </div></a> </h1>           
  <h1  >REDES SOCIAIS:</br></h1>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://linktr.ee/ErikMazzuco">
+    <img src="https://skillicons.dev/icons?i=git,docker,dotnet,c,html&theme=light"/>
+  </a>
+</p>
  
 <div>
   <a title="Youtube" href="https://www.youtube.com/channel/UCDiZI8C5fvnYtiht-28jvkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=&logo=youtube&logoColor=white"  height="25em" target="_blank"></a>

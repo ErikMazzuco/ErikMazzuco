@@ -4,12 +4,9 @@
 - 20y
 
 <div align="center">
-
-
- 
-
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikMazzuco&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
   </div>
+  
 <div style="display: inline_block"><br>
 <h1 title="SOMENTE BÁSICO">LINGUAGENS: </br>
 
@@ -23,7 +20,7 @@
 
  <h1>REDES SOCIAIS:</h1>
 <div>
- <a title="Youtube" href="https://www.youtube.com/channel/UCDiZI8C5fvnYtiht-28jvkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=&logo=youtube&logoColor=white"  height="25em" target="_blank"></a>
+<a title="Youtube" href="https://www.youtube.com/channel/UCDiZI8C5fvnYtiht-28jvkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=&logo=youtube&logoColor=white"  height="25em" target="_blank"></a>
 <a title="Instagram"  href="https://www.instagram.com/erikmazzuco/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=&logo=instagram&logoColor=white" height="25em" target="_blank"></a>
 <a title="Twitch"  href="https://www.twitch.tv/erikmazzuco"target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=&logo=twitch&logoColor=white" height="25em" target="_blank"></a>
 <a title="Discord"  href="https://discordapp.com/users/ErikMazzuco#2437" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=&logo=discord&logoColor=white" height="25em"  target="_blank"></a>

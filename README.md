@@ -5,6 +5,7 @@
 
 <div align="center">
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikMazzuco&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
+ ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mRn283&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
   
 <div style="display: inline_block">

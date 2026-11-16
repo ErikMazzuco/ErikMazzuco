@@ -1,14 +1,12 @@
  >ERIK MAZZUCO
 - Formado em Técnico de Informática Joao Manoel Mondrone
 - Ciencia Da Computação UTFPR
-- 20y
+- 22y
 
 <div align="center">
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikMazzuco&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
  
-</div>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ErikMazzuco&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<div style="display: inline_block">
+
  
    <br><h1 title="SOMENTE BÁSICO">LINGUAGENS:</br>
    
